@@ -1,5 +1,5 @@
 package low
 
-func API1() string {
-	return "hello"
+func API1() int {
+	return 22
 }
